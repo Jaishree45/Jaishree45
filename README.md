@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studing in CDLU.Sirsa in B.tech AI&ML 1st year and also learning the iot and coding and mostly i do vibe coding for projects and i am also good in ai conversation 
+I am currently studing in CDLU.Sirsa in B.tech AI&ML and also learning the iot and coding and mostly i do vibe coding for projects and i am also good in ai conversation 
 
 
 ## 🌐 Socials:
