@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently studing in CDLU.Sirsa in B.tech AI&ML and also learning the iot and coding and mostly i do vibe coding for projects and i am also good in ai conversation 
-
+I am currently studing in CDLU.Sirsa in B.tech AI&ML and also learning the iot and coding . 
+🚀 We design and build custom IoT, Robotics, Embedded Systems, and AI-powered solutions, turning innovative ideas into real-world projects with our team.
+If You want to build some projects you can Contact Us.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jai_._45) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Buisyjai.ac@gmail.com) 
